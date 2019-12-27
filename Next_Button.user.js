@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Function Access Profile Button
+// @name         Function Access Profile Next Button
 // @namespace    http://tampermonkey.net/
 // @include     http*://*fap*
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
