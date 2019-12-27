@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Function Access Profile Next Button
+// @name         Function Access Profile Button
+// @description   This script adds a floating next item button to the function access profile screens.
 // @namespace    http://tampermonkey.net/
 // @include     http*://*fap*
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @version     2.2.5
 // @grant          GM_addStyle
 // @run-at  document-end
